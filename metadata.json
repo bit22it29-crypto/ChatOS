@@ -1,0 +1,6 @@
+{
+  "name": "ChatOS",
+  "description": "Professional-grade A–Z Dynamic Multi-Theme System and AI Workspace featuring local & API agents, Deep Research, Model Cookbook, side-by-side compare, docs editor, memory, and multi-theme blending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
